@@ -1,0 +1,22 @@
+{
+  "name": "mamodule",
+  "version": "1.0.0",
+  "description": "creation and publish 1st module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MariamAmdouni/firstdemo.git"
+  },
+  "keywords": [
+    "tay"
+  ],
+  "author": "mariam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariamAmdouni/firstdemo/issues"
+  },
+  "homepage": "https://github.com/MariamAmdouni/firstdemo#readme"
+}
